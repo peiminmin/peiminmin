@@ -14,6 +14,7 @@
 
 * Email: peiminmin@yeah.net
 * WeChat: BestGust
+* gitee：https://gitee.com/peiminmin
 
 ![Personal WeChat](https://raw.githubusercontent.com/ruster-cn/ruster-cn/master/80353346f9ae8eee97de408592c98032.jpg)
 

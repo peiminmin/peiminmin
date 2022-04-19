@@ -15,11 +15,11 @@
 * Email: peiminmin@yeah.net
 * WeChat: BestGust
 
-![Personal WeChat](./80353346f9ae8eee97de408592c98032.jpg)
+![Personal WeChat](https://raw.githubusercontent.com/ruster-cn/ruster-cn/master/80353346f9ae8eee97de408592c98032.jpg)
 
 <b>I also set up a public official account to share some of my research results. Welcome to pay attention.</b>
 
-![official](./0f7a6cffa1c57b6faa0511ebdb20dc54.jpg)
+![official](https://raw.githubusercontent.com/ruster-cn/ruster-cn/master/0f7a6cffa1c57b6faa0511ebdb20dc54.jpg)
 
 
 
